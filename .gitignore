@@ -1,0 +1,14 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfstate.backup
+terraform.tfvars
+*.auto.tfvars
+.env
+credentials*.json
+service-account*.json
+
+**/.DS_Store
+
+__pycache__/
+.venv/
